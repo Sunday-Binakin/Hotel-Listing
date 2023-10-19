@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uzBa/Q9nerT/fxyJdsEBnFHyCzP8kqKoxL75GaB/SflByxVZdWrDlmnLBg/77e7YdFO5MzhAishUO8Y0XsaIpA==",
+  "dgSpecHash": "5SH4Q/3f3zrbUAC1ET8kjzSJG3vnb5Ca4qB1EsBOBI3hR0F2Q/N4nOCBf6tvBYqPZUgWqjOmIK2ORnZi5LwqFg==",
   "success": true,
   "projectFilePath": "D:\\C#\\Backend\\HotelListing\\HotelListing\\HotelListing.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,9 @@
     "C:\\Users\\sunda\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sunda\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\sunda\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.23\\microsoft.aspnetcore.cryptography.internal.6.0.23.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.23\\microsoft.aspnetcore.cryptography.keyderivation.6.0.23.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.23\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.23.nupkg.sha512",
     "C:\\Users\\sunda\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.12\\microsoft.aspnetcore.jsonpatch.6.0.12.nupkg.sha512",
     "C:\\Users\\sunda\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.12\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.12.nupkg.sha512",
     "C:\\Users\\sunda\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
@@ -32,6 +35,8 @@
     "C:\\Users\\sunda\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
     "C:\\Users\\sunda\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\sunda\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.23\\microsoft.extensions.identity.core.6.0.23.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.23\\microsoft.extensions.identity.stores.6.0.23.nupkg.sha512",
     "C:\\Users\\sunda\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\sunda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\sunda\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",

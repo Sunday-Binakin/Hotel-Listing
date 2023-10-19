@@ -2,6 +2,8 @@ using HotelListing.Configurations;
 using HotelListing.Data;
 using HotelListing.Repository.Implementation;
 using HotelListing.Repository.Interface;
+using HotelListing.ServiceExtensions;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 using Serilog.Events;
@@ -39,8 +41,12 @@ builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 
 builder.Services.AddControllers().AddNewtonsoftJson(options =>
     options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+
+builder.Services.AddAuthentication();
+builder.Services.ConfigureIdentity();
 builder.Services.AddCors(cors =>
 {
+    
     cors.AddPolicy("AllowAllPolicy",
         corsPolicyBuilder=>corsPolicyBuilder
             .AllowAnyOrigin()
